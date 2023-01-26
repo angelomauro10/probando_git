@@ -1,0 +1,42 @@
+[33mcommit 3a81555335302881777c1f3edc5cfd5d6de813af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5926017 b35020f
+Author: Angelo <angelomauro_10@hotmail.com>
+Date:   Thu Jan 5 02:32:28 2023 -0300
+
+    Merge branch 'Rama_3_Galeria'
+
+[33mcommit b35020f5fd2aeb2966566d9abb76623e94a47cd8[m[33m ([m[1;32mRama_3_Galeria[m[33m)[m
+Author: Angelo <angelomauro_10@hotmail.com>
+Date:   Thu Jan 5 02:31:02 2023 -0300
+
+     Linkeo la hoja de estilos al index.html
+
+[33mcommit 5926017d77220c37e054a557dc044eed96e441c9[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mRama_estilos_css[m[33m)[m
+Author: Angelo <angelomauro_10@hotmail.com>
+Date:   Thu Jan 5 02:07:52 2023 -0300
+
+    Se crea el container y se hacen pruebas
+
+[33mcommit 26b8231b81709e1a9faf33eab13847f0ead4cf8d[m
+Author: Angelo <angelomauro_10@hotmail.com>
+Date:   Thu Jan 5 02:04:37 2023 -0300
+
+    Se crea la hoja de estilos.css
+
+[33mcommit 3a123d71e4b235d2f8c4febc882dadf370a658cd[m[33m ([m[1;32mRama_2[m[33m)[m
+Author: Angelo <angelomauro_10@hotmail.com>
+Date:   Wed Jan 4 14:52:36 2023 -0300
+
+    Galeria de imagenes
+
+[33mcommit 7874ba5f4836cdf886d692fc0ed5e884637f8433[m
+Author: Angelo <angelomauro_10@hotmail.com>
+Date:   Wed Jan 4 14:44:15 2023 -0300
+
+    Insercion de 1 span con 5 links
+
+[33mcommit c2ddd8c98f6d94fc3981518ab5919afc97b33b09[m
+Author: Angelo <angelomauro_10@hotmail.com>
+Date:   Wed Jan 4 14:33:21 2023 -0300
+
+    Se le agrega 2 Lorem Ipsum al Index.html
